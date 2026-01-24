@@ -79,5 +79,6 @@ Data cleaning includes:
 
 ## 🏗️ System Architecture
 
+![System Architecture](images/architecture.png)
 
 

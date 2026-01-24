@@ -73,7 +73,7 @@ Data cleaning includes:
 | Deep Learning | TensorFlow / Keras, PyTorch |
 | NLP Libraries | Hugging Face Transformers, NLTK |
 | Evaluation | sacreBLEU |
-| Environment | Kaggle Notebook (NVIDIA Tesla T4 GPU) |
+| Environment | Kaggle Notebook  |
 
 ---
 

@@ -79,7 +79,7 @@ Data cleaning includes:
 
 ## 🏗️ System Architecture
 
-![System Architecture](System Architecture.jpg)
+![System Architecture](System Architecture.png)
 
 
 

@@ -79,7 +79,16 @@ Data cleaning includes:
 
 ## 🏗️ System Architecture
 
-![System Architecture](System_Architecture.png)
+![System_Architecture](System_Architecture.png)
+
+##Transformer Model
+
+![Transformer_Model](Transformer_Model.png).
+
+
+
+
+
 
 
 

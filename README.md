@@ -81,15 +81,15 @@ Data cleaning includes:
 
 ![System_Architecture_Diagram](System_Architecture_Diagram.png)
 
-##Transformer Model
+## 🏗️ Transformer Model
 
 ![Transformer_Model](Transformer_Model.png).
 
-##Seq2Seq_LSTM_Architecture
+## 🏗️ Seq2Seq_LSTM_Architecture
 
 ![Seq2Seq_LSTM_Architecture](Seq2Seq_LSTM_Architecture.png).
 
-##System_Flowchart_(DFD)
+## 🏗️ System_Flowchart_(DFD)
 
 ![System_Flowchart_(DFD)](System_Flowchart_(DFD).png).
 
